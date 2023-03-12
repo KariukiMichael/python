@@ -1,4 +1,4 @@
-#input sale amount
+#input sale amount with a discount of 5%
 amt=int(input("Enter sale amount:"))
 if (amt>1000):
     disc=amt*0.05
