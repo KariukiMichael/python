@@ -1,3 +1,4 @@
+#Convert celsius to Fahrenheit and vise versa
 class Temperature:
  def __init__(self,celsius,Fahrenheit):
    self.celsius=celsius
