@@ -1,3 +1,4 @@
+#Write a program to check if a person is eligible to vote
 age=int(input("Enter age:"))
 Nationality=(input("Enter nationality:")) .lower()
 if age>=18 and Nationality=="kenyan":
