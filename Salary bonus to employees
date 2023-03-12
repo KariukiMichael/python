@@ -1,3 +1,4 @@
+#Salary bonus to employee
 time=int(input("Enter the time period:"))
 salary=int(input("Enter the salary:"))
 if(time>10):
