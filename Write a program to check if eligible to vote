@@ -1,3 +1,4 @@
+#Write a program to checo if a person is eligible to vote
 age=int(input("Enter age:"))
 nationality=input("Enter nationality:").lower()
 cit=["kenya","uganda","tanzania"]
