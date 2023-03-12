@@ -1,3 +1,4 @@
+#class bank account
 class Amount:
  import datetime
  current_date = datetime.date.today()
